@@ -1,0 +1,21 @@
+h1 {
+    color:#440e62;
+}
+
+body{
+    background-color: #a2d39c;
+    color: #440e62;
+}
+
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    align-self: center;
+}
+
+.pottable{
+    border: 1px solid;
+    border-color: black;
+    border-collapse: collapse;
+}
+
